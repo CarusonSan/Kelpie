@@ -1,0 +1,24 @@
+{
+  "name": "kelpie",
+  "version": "1.0.0",
+  "description": "Discord bot built using Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarusonSan/Kelpie.git"
+  },
+  "keywords": [
+    "Discord",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "author": "Carson Cheung",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/CarusonSan/Kelpie/issues"
+  },
+  "homepage": "https://github.com/CarusonSan/Kelpie#readme"
+}
