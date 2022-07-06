@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/CarusonSan/Kelpie/issues"
   },
-  "homepage": "https://github.com/CarusonSan/Kelpie#readme"
+  "homepage": "https://github.com/CarusonSan/Kelpie#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
 }
